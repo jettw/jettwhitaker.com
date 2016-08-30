@@ -1,4 +1,4 @@
-# jekyll-foundation-6-starter
+# jettwhitaker.com
 
 Website for my personal portfolio [jettwhitaker.com](https://jettwhitaker.com)
 
