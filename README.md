@@ -1,6 +1,6 @@
 # jekyll-foundation-6-starter
 
-Start [a github pages](https://pages.github.com/) website powered by [Jekyll](http://jekyllrb.com/docs/quickstart/) using [Foundation/SCSS](http://foundation.zurb.com/sites/docs/installation.html#command-line-tool.html) in under 5 minutes! 
+Website for my personal portfolio [jettwhitaker.com](https://jettwhitaker.com)
 
 ### What it is!!!
 
