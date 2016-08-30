@@ -2,7 +2,7 @@
 
 Start [a github pages](https://pages.github.com/) website powered by [Jekyll](http://jekyllrb.com/docs/quickstart/) using [Foundation/SCSS](http://foundation.zurb.com/sites/docs/installation.html#command-line-tool.html) in under 5 minutes! 
 
-### What it is.
+### What it is!!!
 
 Ever wanted a simple but nice looking responsive website as your project page or page for your repo? Are you in [a hackathon](http://baseballhackday.com) needing to put up a working website in minutes? I do. Here is what I do, and I am sharing for you to use it, free. Free as in free speech AND free beer.
 
